@@ -8,6 +8,8 @@ namespace test
         {
             Console.WriteLine("Hello World!");
             byte a = 90;
+            int c = 999;
+
 
         }
     }
