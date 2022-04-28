@@ -87,7 +87,7 @@ namespace Practice_2
             //Console.WriteLine(char.IsWhiteSpace(symbol));
             #endregion
 
-            int a = 333;
+            int a = 33;
             int b = 221;
             int cem = a + b;
             Console.WriteLine(cem);
