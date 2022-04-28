@@ -88,7 +88,7 @@ namespace Practice_2
             #endregion
 
             int a = 333;
-            int b = 222;
+            int b = 221;
             int cem = a + b;
             Console.WriteLine(cem);
 
